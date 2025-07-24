@@ -1,4 +1,4 @@
-# Virtual AI Assistant
+# Virtual Assistant
 
 _A Python-based desktop application that combines voice recognition and GUI interactions to automate routine tasks like searching Wikipedia, opening websites, generating QR codes, and more._
 
@@ -6,7 +6,7 @@ _A Python-based desktop application that combines voice recognition and GUI inte
 
 ## 🚀 Overview
 
-The **Virtual AI Assistant** simplifies everyday computer usage by offering dual modes of interaction:
+The **Virtual Assistant** simplifies everyday computer usage by offering dual modes of interaction:
 
 - **Voice Command Mode:** Control the assistant hands-free with spoken commands using SpeechRecognition and pyttsx3.
 - **Click Command Mode:** Operate via GUI buttons and input fields for manual and precise command execution.
@@ -45,11 +45,11 @@ Key features include getting the current time, searching Wikipedia articles, qui
 
 1. Clone the repository:
  ```
-  git clone https://github.com/yourusername/virtual-ai-assistant.git
+  git clone https://github.com/yourusername/virtual-assistant.git
 ```
 2. Navigate into the project directory:
 ```
-cd virtual-ai-assistant
+cd virtual-assistant
 ```
 3. Install dependencies:
 ```
