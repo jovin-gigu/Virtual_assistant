@@ -45,7 +45,7 @@ Key features include getting the current time, searching Wikipedia articles, qui
 
 1. Clone the repository:
  ```
-  git clone https://github.com/yourusername/virtual-assistant.git
+  git clone https://github.com/jovin-gigu/virtual_assistant.git
 ```
 2. Navigate into the project directory:
 ```
