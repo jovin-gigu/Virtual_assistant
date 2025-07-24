@@ -49,7 +49,7 @@ Key features include getting the current time, searching Wikipedia articles, qui
 ```
 2. Navigate into the project directory:
 ```
-cd virtual-assistant
+cd virtual_assistant
 ```
 3. Install dependencies:
 ```
