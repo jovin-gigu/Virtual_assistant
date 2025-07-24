@@ -87,7 +87,7 @@ Contributions and improvements are welcome! Please open issues or submit pull re
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE.txt).
 ---
 
 ## 📬 Contact
